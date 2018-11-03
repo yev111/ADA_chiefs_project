@@ -2,10 +2,15 @@
 
 # Abstract
 One’s housing situation is a personal issue and often reflects or determines our style of living. Evolving lifestyles and demographic change evoke the question of future housing concepts [1,2].
+<br />
 This data study aims at analyzing how people live based on the number of people living per household in Switzerland. Do location, housing prize, income, demographic affiliation or even political orientation influence the number of people we are living with? Diverse Data provided by the Federal Statistical Office of Switzerland between 2010 and 2017 are analyzed on communal level. General trends are discovered and the spatial dependence analyzed. Hypotheses on the influence of different factors are then tested by means of statistical correlation analysis. The final goal is to realize a convincing visualization on a blog to present the key findings.
-
+<br />
+<br />
 *[1]:https://www.srf.ch/news/panorama/drei-megatrends-veraendern-das-wohnen*
+<br />
 *[2]:https://www.beobachter.ch/wohnen/miete/wohnverhalten-die-bleibe-der-zukunft*
+<br />
+<br />
 
 # Research questions
 Are there any overall trends in the number of people living per houshold(p/HH)?
