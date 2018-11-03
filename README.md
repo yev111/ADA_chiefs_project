@@ -9,13 +9,13 @@ This data study aims at analyzing how people live based on the number of people 
 
 # Research questions
 Are there any overall trends in the number of people living per houshold(p/HH)?
-Furthermore, the influence of the following factors on p/hh are tested:
-    - housing price
-    - income
-    - location (urban, rural)
-    - political orientation
-    - demographic affilation (age, nationality, job)
-    
+Furthermore, the influence of the following factors on p/hh are tested:__
+    - housing price__
+    - income__
+    - location (urban, rural)__
+    - political orientation__
+    - demographic affilation (age, nationality, job)__
+__
 Do they enforce the trends or have direct correlations? Have income levels kept pace with rent prices over the years or has one parameter outpaced the other and if so, is it Swiss-wide or focused on uban/rural areas, and what impact does it have on the household size?  
 
 # Dataset
