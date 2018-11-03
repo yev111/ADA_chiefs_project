@@ -81,6 +81,8 @@ The data size would be desireably between 2010 an 2017, based on canton or the 7
 <br />
 Add here a sketch of your planning for the next project milestone.
 <br />
+<br />
+
 # Questions for TAa
 <br />
     - Is there a GIS we could obtain to be able to zoom into each building of each Swiss commune and get data of the household of that building, like how many people live in the building and the size of the apartment?
