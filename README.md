@@ -9,25 +9,39 @@ This data study aims at analyzing how people live based on the number of people 
 
 # Research questions
 Are there any overall trends in the number of people living per houshold(p/HH)?
-Furthermore, the influence of the following factors on p/hh are tested:__
-    - housing price__
-    - income__
-    - location (urban, rural)__
-    - political orientation__
-    - demographic affilation (age, nationality, job)__
-__
+Furthermore, the influence of the following factors on p/hh are tested:
+<br />
+    - housing price
+    <br />
+    - income
+    <br />
+    - location (urban, rural)
+    <br />
+    - political orientation
+    <br />
+    - demographic affilation (age, nationality, job)
+    <br />
+__  <br />
 Do they enforce the trends or have direct correlations? Have income levels kept pace with rent prices over the years or has one parameter outpaced the other and if so, is it Swiss-wide or focused on uban/rural areas, and what impact does it have on the household size?  
-
+<br />
 # Dataset
 Some datasets were split between the following 7 big Swiss regions:
+<br />
     - Lake Geneva Region (VD, VS, GE)
+    <br />
     - Espace Mittelland (BE, FR, SO, NE, JU)
+    <br />
     - Northwestern Switzerland (BS, BL, AG)
+    <br />
     - Central Switzerland (LU, UR, SZ, OW, NW, ZG)
+    <br />
     - Zurich (ZH)
+    <br />
     - Eastern Switzerland (GL, SH, AR, AI, SG, GR, TG)
+    <br />
     - Ticino (TI)
-
+<br />
+<br />
 The following dataset was selected for the time span between 2010 - 2017 (not all data sets were available in the desired time-span):
     - Permanent resident population in private households by commune and household size (2010-2017)
     - Structure of the permanent resident population by canton (2010-2017)
