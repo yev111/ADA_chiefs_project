@@ -31,7 +31,7 @@ Furthermore, the influence of the following factors on p/hh are tested:
 Do they enforce the trends or have direct correlations? Have income levels kept pace with rent prices over the years or has one parameter outpaced the other and if so, is it Swiss-wide or focused on urban/rural areas, and what impact does it have on the household size?  
 <br />
 # Dataset
-Some datasets were split between the following 7 big Swiss regions:
+Not all datasets have the same geographical resolution. We try to analyze the most possible on a communal scale, but we also have inputs on cantonal levels and soome datasets were split between the following 7 big Swiss regions:
 <br />
 <br />
     - Lake Geneva Region (VD, VS, GE)
@@ -49,7 +49,7 @@ Some datasets were split between the following 7 big Swiss regions:
     - Ticino (TI)
 <br />
 <br />
-The following dataset was selected for the time span between 2010 - 2017 (not all data sets were available in the desired time-span):
+The following datasets were selected for the time span between 2010 - 2017 (not all data sets were available in the desired time-span):
 <br />
 <br />
     - Permanent resident population in private households by commune and household size (2010-2017)
@@ -82,9 +82,8 @@ All the mentioned data sets were acquired from opendata.swiss. The expectation i
 <br />
 The data size would be desireably between 2010 an 2017, based on canton or the 7 big Swiss regions. Meanwhile, when available, we try to focus on a communal resolution. 
 <br />
-# A list of internal milestones up until project milestone 2
-<br />
-Next milestone 2: 25.11.2018.
+# Objectives for the next milestone 2 on 25.11.2018.
+
 <br /> - organize Input data, rename datasheets, clean missing values, concatenate data sheets
 <br /> - first analysis of number of residents per household and average incomes on communal level and relation
 <br /> - creation of templates for the maps for the visualization and the final report (blog)
