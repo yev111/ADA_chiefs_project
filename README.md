@@ -102,3 +102,4 @@ The data size would be desireably between 2010 and 2016, based on canton or the 
 <br /> - Brainstorming about ideas of how to design the poster for the prentation and assign logistics to group members 
 # Questions for TAs
 <br /> - The "communes.geojson" file that has all the coordinates of each commune is 90MB large and while it loads into jupyter notebooks, it does not display the borders when adding it to a Swiss map. This is likely to a large file. Is there a way to display the borders anyways using the GeoJSon? If so, how?
+<br /> - Is there a good way to use something similar to df.append() for the dict-collections in the data wrangling? Especially for the layer wage_swiss_foreigner it would be useful, as it is still split into each region. 
