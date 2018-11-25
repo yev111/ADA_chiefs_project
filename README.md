@@ -94,3 +94,5 @@ The data size would be desireably between 2010 an 2017, based on canton or the 7
 <br /> - Display of regional outcomes on a Swiss map for better depiction of regional factors of the hypothesis
 <br /> - Write a report based on the findings and discuss those findings
 <br /> - Brainstorming about ideas of how to design the poster for the prentation and assign logistics to group members 
+# Questions for TAs
+<br /> - The "communes.geojson" file that has all the coordinates of each commune is 90MB large and while it loads into jupyter notebooks, it does not display the borders when adding it to a Swiss map. This is likely to a large file. Is there a way to display the borders anyways using the GeoJSon? If so, how?
