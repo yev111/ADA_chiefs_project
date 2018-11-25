@@ -1,0 +1,24 @@
+,Unnamed: 0,Unnamed: 1, Median, Quartile range,Unnamed: 4, Median.1, Quartile range.1,Unnamed: 7, Median.2, Quartile range.2,Unnamed: 10
+0,,,,,,,,,,,
+1, TOTAL ,,5932,4890.0,7274.0,5521,4538,6890,6145,5190,7523
+2,  ,,,,,,,,,,
+3, Swiss,,6068,4982.0,7343.0,5607,4634,6798,6423,5394,7798
+4,  ,,,,,,,,,,
+5, Foreigners,,5751,4792.0,7169.0,5360,4409,7131,5871,5020,7189
+6,,,,,,,,,,,
+7, Short-term permit (L),,5473,4536.0,6391.0,[4 934] ,[4 149] ,[5 518] ,5672,4786,6471
+8, Temporary residence permit (B) ,,5388,4471.0,6947.0,5398,4287,7174,5383,4578,6757
+9, Permanent residence permit (C) ,,5601,4718.0,6808.0,4951,4259,6420,5829,5073,6941
+10, Cross-border worker (G) ,,6198,5189.0,7756.0,6213,4855,7859,6192,5302,7694
+11, Other,,4698,3698.0,5774.0,[4 967] ,[4 016] ,[5 768] ,[4 362] ,[3 570] ,[5 774] 
+12,,,,,,,,,,,
+13,,,,,,,,,,,
+14, Standardized monthly wage:,,Full-time equivalent based on 40 hours a week and 4 1/3 weeks a month.,,,,,,,,
+15,,,,,,,,,,,
+16, Professional position:,,"1+2 = Top, upper and middle management",,,,,4 = Lowest management level  ,,,
+17,,,3 = Lower management   ,,,,,No management function   ,,,
+18,,,,,,,,,,,
+19, Median:,,"For half of the jobs, the standardized wage is above the given middle value (median), and for the other half below it.   ",,,,,,,,
+20,,,,,,,,,,,
+21, Quartile range:,,"For 50 % of the jobs, the standardized wage lie in the range given.  A quarter of the standardized wage lies below",,,,,,,,
+22, (middle 50 % of the data): ,,or above the range shown.,,,,,,,,

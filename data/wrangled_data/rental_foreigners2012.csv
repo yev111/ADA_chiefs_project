@@ -1,0 +1,22 @@
+,Region,average rent all,household with only Swiss,hh with min 1 Swiss and 1 foreigner,household with only foreigners
+0,,Total,"Alle Haushaltsmitglieder 
+sind Schweizer","Mind. ein Haushaltsmitglied ist Schweizer 
+und mind. ein Haushaltsmitglied ist Ausländer","Alle Haushaltsmitglieder 
+sind Ausländer"
+1,4 Zimmer,1514,1489,1569,1552
+2,3 Zimmer,1270,1235,1342,1306
+3,2 Zimmer,902,907,954,879
+4,1 Zimmer,690,694,***** 926,679
+5,Zürich,1525,1510,1653,1499
+6,,,,,
+7,6 Zimmer und mehr,1801,1772,**** 1'815,**** 1'931
+8,5 Zimmer,1990,1853,2122,2482
+9,6 Zimmer und mehr,2322,2161,**** 2'011,**** 3'445
+10,,,,,
+11,Tessin,1160,1170,1287,1098
+12,1 Zimmer,696,705,***** 576,695
+13,2 Zimmer,928,934,964,916
+14,3 Zimmer,1141,1133,1188,1136
+15,4 Zimmer,1346,1322,1391,1373
+16,5 Zimmer,1695,1659,1662,1853
+17,6 Zimmer und mehr,2204,1992,**** 2'366,**** 2'753
