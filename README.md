@@ -36,7 +36,7 @@ Do they enforce the trends or have direct correlations? Have income levels kept 
 
 The datasets containing our response variable (distribution of household sizes) will be in the focus for all final analyses ("hh_sizeXXXX"). Also, the dataset "incomes" is crucial, as it provides a communal resolution for the incomes and for some demographic properties. As it dates from 2007, it has to be extrapolated and adapted, using other, available datasets. 
 
-Not all datasets have the same geographical resolution. We try to analyze the most possible on a communal scale, but we also have inputs on cantonal levels and some datasets were split between the following 7 big Swiss regions:
+The mostpart of the other layers do unfortunately not have the same geographical resolution. We try to analyze the most possible on a communal scale, but we also have inputs on cantonal levels and some datasets were split between the following 7 big Swiss regions:
 <br />
 <br />
     - Lake Geneva Region (VD, VS, GE)
@@ -97,6 +97,7 @@ The data size would be desireably between 2010 and 2016, based on canton or the 
 <br /> - Thorough analysis to address the hypothesis based on different factors outlined earlier
 <br /> - Analysis should have visualization based on statistical outcome 
 <br /> - Display of regional outcomes on a Swiss map for better depiction of regional factors of the hypothesis
+<br /> - Critical reflection on the reliability of the data (especially due to temporal and geographical scale differences)
 <br /> - Write a report based on the findings and discuss those findings
 <br /> - Brainstorming about ideas of how to design the poster for the prentation and assign logistics to group members 
 # Questions for TAs
