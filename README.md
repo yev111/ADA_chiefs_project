@@ -14,9 +14,9 @@ This data study aims at analyzing how people live based on the number of people 
 
 # Research questions
 - Is there a correlation between the foreign population in Switzerland and the number of people living per household (p/HH)
-- Is there a correlation between the level of income and the size of the household?
+- Is there a correlation between the level of income and the size of the households?
 
-There can be various factors that might affect the outcome and hence need to be taken into account when doing the research:
+There can be various factors that might affect the outcome and hence need to be taken into account when investigating those two statements:
 <br />
 <br />
     - housing price
@@ -28,9 +28,14 @@ There can be various factors that might affect the outcome and hence need to be 
     - demographic affilation (age, nationality, job)
     <br />
     <br />
+    
+Further Question: <br />
 Do they enforce the trends or have direct correlations? Have income levels kept pace with rent prices over the years or has one parameter outpaced the other and if so, is it Swiss-wide or focused on urban/rural areas, and what impact does it have on the household size? Differences between Swiss and foreigners, such as income levels and rental prices, for instance, are also considered. 
 
-# Dataset
+# Datasets
+
+The datasets containing our response variable (distribution of household sizes) will be in the focus for all final analyses ("hh_sizeXXXX"). Also, the dataset "incomes" is crucial, as it provides a communal resolution for the incomes and for some demographic properties. As it dates from 2007, it has to be extrapolated and adapted, using other, available datasets. 
+
 Not all datasets have the same geographical resolution. We try to analyze the most possible on a communal scale, but we also have inputs on cantonal levels and some datasets were split between the following 7 big Swiss regions:
 <br />
 <br />
