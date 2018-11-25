@@ -14,7 +14,6 @@ This data study aims at analyzing how people live based on the number of people 
 
 # Research questions
 - Is there a correlation between the foreign population in Switzerland and the number of people living per household (p/HH)
-<br />
 - Is there a correlation between the level of income and the size of the household?
  <br />
 There can be various factors that might affect the outcome and hence need to be taken into account when doing the research:
