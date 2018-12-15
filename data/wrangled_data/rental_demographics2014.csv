@@ -1,66 +1,57 @@
-,Unnamed: 0,Unnamed: 1,Unnamed: 2,ohne Migrations-hintergrund,Unnamed: 4,mit Migrations-hintergrund 4),Unnamed: 6,Gemischt mit/ohne Migrationshintergrund 4),Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14
-0,,,±  5),,±  5),,±  5),,±  5),,,,,,
-1,,,,,,,,,,,,,,,
-2,Total,16.2,0,15.5,0.1,17.1,0.1,16.9,0.2,,,,,,
-3,  Einpersonenhaushalte,16.4,0.1,15.8,0.1,17.6,0.2,*,*,,,,,,
-4,  Paare ohne Kinder,16.2,0.1,15.5,0.1,17.1,0.1,17.1,0.2,,,,,,
-5,  Paare mit Kind(ern),16.0,0.1,14.8,0.1,16.8,0.1,16.6,0.2,,,,,,
-6,  Einelternhaushalte,15.3,0.1,14.6,0.2,16.2,0.2,*,*,,,,,,
-7,  Nichtfamilienhaushalte mit mehreren Personen,17.2,0.3,16.6,0.3,18.0,0.5,17.6,0.9,,,,,,
-8,  Mehrfamilienhaushalte,15.6,0.4,15.8,2,15.6,0.4,15.1,2.5,,,,,,
-9,,,,,,,,,,,,,,,
-10,Genferseeregion,,,,,,,,,,,,,,
-11,  Einpersonenhaushalte,17.4,0.2,16.1,0.2,19.0,0.3,*,*,,,,,,
-12,  Paare ohne Kinder,17.1,0.2,15.7,0.2,18.2,0.3,18.3,0.6,,,,,,
-13,  Paare mit Kind(ern),17.7,0.2,16.3,0.3,18.3,0.2,18.3,0.4,,,,,,
-14,  Einelternhaushalte,16.8,0.3,15.8,0.4,17.8,0.5,*,*,,,,,,
-15,  Nichtfamilienhaushalte mit mehreren Personen,18.6,0.8,16.7,1.2,19.8,1.1,18.6,1.8,,,,,,
-16,  Mehrfamilienhaushalte,16.4,0.9,16.8,3.2,16.0,1,18.4,2.4,,,,,,
-17,,,,,,,,,,,,,,,
-18,Espace Mittelland,,,,,,,,,,,,,,
-19,  Einpersonenhaushalte,14.4,0.1,14.3,0.2,15.0,0.3,*,*,,,,,,
-20,  Paare ohne Kinder,14.4,0.1,14.1,0.2,14.8,0.3,15.1,0.5,,,,,,
-21,  Paare mit Kind(ern),14.1,0.1,13.5,0.2,14.6,0.2,14.4,0.7,,,,,,
-22,  Einelternhaushalte,13.8,0.3,13.6,0.3,14.3,0.5,*,*,,,,,,
-23,  Nichtfamilienhaushalte mit mehreren Personen,15.6,0.5,15.6,0.6,15.6,0.9,15.2,1.5,,,,,,
-24,  Mehrfamilienhaushalte,13.9,1.5,15.5,6.6,14.5,0.8,5.7,3.7,,,,,,
-25,,,,,,,,,,,,,,,
-26,Nordwestschweiz,,,,,,,,,,,,,,
-27,  Einpersonenhaushalte,16.4,0.2,15.9,0.2,17.4,0.3,*,*,,,,,,
-28,  Paare ohne Kinder,16.1,0.2,15.5,0.2,17.0,0.3,16.5,0.4,,,,,,
-29,  Paare mit Kind(ern),15.7,0.2,14.7,0.3,16.3,0.2,16,0.5,,,,,,
-30,  Einelternhaushalte,15.5,0.4,14.9,0.6,16.3,0.5,*,*,,,,,,
-31,  Nichtfamilienhaushalte mit mehreren Personen,15.9,0.6,15.7,0.6,16.1,1.5,16.2,1.7,,,,,,
-32,  Mehrfamilienhaushalte,15.1,1.1,12.2,5.8,15.4,1.1,13.8,2.5,,,,,,
-33,,,,,,,,,,,,,,,
-34,Zürich,,,,,,,,,,,,,,
-35,  Einpersonenhaushalte,19.3,0.2,18.7,0.2,20.5,0.4,*,*,,,,,,
-36,  Paare ohne Kinder,18.9,0.2,18.1,0.2,19.6,0.3,19.9,0.6,,,,,,
-37,  Paare mit Kind(ern),18.1,0.2,17.1,0.3,18.6,0.3,18.6,0.5,,,,,,
-38,  Einelternhaushalte,16.9,0.4,16.3,0.5,17.4,0.5,*,*,,,,,,
-39,  Nichtfamilienhaushalte mit mehreren Personen,19.9,0.6,19.9,0.8,20.1,1,19.4,1.9,,,,,,
-40,  Mehrfamilienhaushalte,17.4,0.8,19.4,4.7,17.1,0.8,19.5,3.3,,,,,,
-41,,,,,,,,,,,,,,,
-42,Ostschweiz,,,,,,,,,,,,,,
-43,  Einpersonenhaushalte,14.5,0.2,14.3,0.3,15.1,0.4,*,*,,,,,,
-44,  Paare ohne Kinder,14.2,0.2,14,0.2,14.5,0.3,14.5,0.5,,,,,,
-45,  Paare mit Kind(ern),13.6,0.2,12.7,0.3,14.4,0.2,14,0.6,,,,,,
-46,  Einelternhaushalte,13.3,0.4,13.1,0.5,13.7,0.7,*,*,,,,,,
-47,  Nichtfamilienhaushalte mit mehreren Personen,14.8,0.6,14.5,0.8,15.4,1.1,15.3,2.8,,,,,,
-48,  Mehrfamilienhaushalte,13.1,1,12.9,3.1,13.8,0.8,7.7,3.5,,,,,,
-49,,,,,,,,,,,,,,,
-50,Zentralschweiz,,,,,,,,,,,,,,
-51,  Einpersonenhaushalte,16.6,0.3,16,0.3,18.2,0.6,*,*,,,,,,
-52,  Paare ohne Kinder,16.2,0.2,15.7,0.2,17.4,0.4,16.9,0.6,,,,,,
-53,  Paare mit Kind(ern),15.8,0.2,14.8,0.2,16.8,0.3,16.5,0.7,,,,,,
-54,  Einelternhaushalte,15.5,0.5,14.9,0.5,16.5,0.9,*,*,,,,,,
-55,  Nichtfamilienhaushalte mit mehreren Personen,16.2,0.6,15.5,0.7,17.1,1.2,17.8,1.7,,,,,,
-56,  Mehrfamilienhaushalte,15.6,1.1,16.1,3.3,15.3,1.2,20.1,3.9,,,,,,
-57,,,,,,,,,,,,,,,
-58,Tessin,,,,,,,,,,,,,,
-59,  Einpersonenhaushalte,13.5,0.3,12.9,0.4,14.0,0.4,*,*,,,,,,
-60,  Paare ohne Kinder,14.0,0.3,13.4,0.5,14.4,0.4,14.6,0.8,,,,,,
-61,  Paare mit Kind(ern),14.4,0.3,13.5,0.5,15.0,0.4,14,0.7,,,,,,
-62,  Einelternhaushalte,13.3,0.6,12.8,0.6,13.6,1,*,*,,,,,,
-63,  Nichtfamilienhaushalte mit mehreren Personen,14.6,1.4,11.4,2.9,15.3,1.6,17.9,3.6,,,,,,
-64,  Mehrfamilienhaushalte,13.1,1.8,X,X,13.9,2.1,10.3,3.4,,,,,,
+,Unnamed: 0,Unnamed: 1,ohne Migrations-hintergrund,mit Migrations-hintergrund 4),Gemischt mit/ohne Migrationshintergrund 4)
+2,Total,16.2,15.5,17.1,16.9
+3,  Einpersonenhaushalte,16.4,15.8,17.6,*
+4,  Paare ohne Kinder,16.2,15.5,17.1,17.1
+5,  Paare mit Kind(ern),16.0,14.8,16.8,16.6
+6,  Einelternhaushalte,15.3,14.6,16.2,*
+7,  Nichtfamilienhaushalte mit mehreren Personen,17.2,16.6,18.0,17.6
+8,  Mehrfamilienhaushalte,15.6,15.8,15.6,15.1
+10,Genferseeregion,,,,
+11,  Einpersonenhaushalte,17.4,16.1,19.0,*
+12,  Paare ohne Kinder,17.1,15.7,18.2,18.3
+13,  Paare mit Kind(ern),17.7,16.3,18.3,18.3
+14,  Einelternhaushalte,16.8,15.8,17.8,*
+15,  Nichtfamilienhaushalte mit mehreren Personen,18.6,16.7,19.8,18.6
+16,  Mehrfamilienhaushalte,16.4,16.8,16.0,18.4
+18,Espace Mittelland,,,,
+19,  Einpersonenhaushalte,14.4,14.3,15.0,*
+20,  Paare ohne Kinder,14.4,14.1,14.8,15.1
+21,  Paare mit Kind(ern),14.1,13.5,14.6,14.4
+22,  Einelternhaushalte,13.8,13.6,14.3,*
+23,  Nichtfamilienhaushalte mit mehreren Personen,15.6,15.6,15.6,15.2
+24,  Mehrfamilienhaushalte,13.9,15.5,14.5,5.7
+26,Nordwestschweiz,,,,
+27,  Einpersonenhaushalte,16.4,15.9,17.4,*
+28,  Paare ohne Kinder,16.1,15.5,17.0,16.5
+29,  Paare mit Kind(ern),15.7,14.7,16.3,16
+30,  Einelternhaushalte,15.5,14.9,16.3,*
+31,  Nichtfamilienhaushalte mit mehreren Personen,15.9,15.7,16.1,16.2
+32,  Mehrfamilienhaushalte,15.1,12.2,15.4,13.8
+34,Zürich,,,,
+35,  Einpersonenhaushalte,19.3,18.7,20.5,*
+36,  Paare ohne Kinder,18.9,18.1,19.6,19.9
+37,  Paare mit Kind(ern),18.1,17.1,18.6,18.6
+38,  Einelternhaushalte,16.9,16.3,17.4,*
+39,  Nichtfamilienhaushalte mit mehreren Personen,19.9,19.9,20.1,19.4
+40,  Mehrfamilienhaushalte,17.4,19.4,17.1,19.5
+42,Ostschweiz,,,,
+43,  Einpersonenhaushalte,14.5,14.3,15.1,*
+44,  Paare ohne Kinder,14.2,14,14.5,14.5
+45,  Paare mit Kind(ern),13.6,12.7,14.4,14
+46,  Einelternhaushalte,13.3,13.1,13.7,*
+47,  Nichtfamilienhaushalte mit mehreren Personen,14.8,14.5,15.4,15.3
+48,  Mehrfamilienhaushalte,13.1,12.9,13.8,7.7
+50,Zentralschweiz,,,,
+51,  Einpersonenhaushalte,16.6,16,18.2,*
+52,  Paare ohne Kinder,16.2,15.7,17.4,16.9
+53,  Paare mit Kind(ern),15.8,14.8,16.8,16.5
+54,  Einelternhaushalte,15.5,14.9,16.5,*
+55,  Nichtfamilienhaushalte mit mehreren Personen,16.2,15.5,17.1,17.8
+56,  Mehrfamilienhaushalte,15.6,16.1,15.3,20.1
+58,Tessin,,,,
+59,  Einpersonenhaushalte,13.5,12.9,14.0,*
+60,  Paare ohne Kinder,14.0,13.4,14.4,14.6
+61,  Paare mit Kind(ern),14.4,13.5,15.0,14
+62,  Einelternhaushalte,13.3,12.8,13.6,*
+63,  Nichtfamilienhaushalte mit mehreren Personen,14.6,11.4,15.3,17.9
+64,  Mehrfamilienhaushalte,13.1,X,13.9,10.3

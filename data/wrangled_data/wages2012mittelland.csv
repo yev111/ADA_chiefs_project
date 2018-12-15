@@ -1,24 +1,9 @@
-,Unnamed: 0,Unnamed: 1, Median, Quartile range,Unnamed: 4, Median.1, Quartile range.1,Unnamed: 7, Median.2, Quartile range.2,Unnamed: 10
-0,,,,,,,,,,,
-1, TOTAL ,,5583,4584.0,6798.0,4984.0,4188.0,6215,5904,4987,7126
-2,  ,,,,,,,,,,
-3, Swiss,,5748,4725.0,7023.0,5159.0,4300.0,6366,6135,5160,7456
-4,  ,,,,,,,,,,
-5, Foreigners,,5165,4286.0,6176.0,4502.0,3894.0,5540,5481,4642,6346
-6,,,,,,,,,,,
-7, Short-term permit (L),,4390,3466.0,5676.0,3764.0,3367.0,4581,4898,3550,5862
-8, Temporary residence permit (B) ,,4892,4057.0,6037.0,4334.0,3723.0,5829,5142,4333,6105
-9, Permanent residence permit (C) ,,5265,4384.0,6239.0,4539.0,3962.0,5522,5608,4838,6444
-10, Cross-border worker (G) ,,5303,4466.0,6212.0,4718.0,4127.0,5470,5588,4773,6491
-11, Other,,4571,3880.0,5550.0,4164.0,3745.0,4776,[4 662] ,[3 972] ,[5 649] 
-12,,,,,,,,,,,
-13,,,,,,,,,,,
-14, Standardized monthly wage:,,Full-time equivalent based on 40 hours a week and 4 1/3 weeks a month.,,,,,,,,
-15,,,,,,,,,,,
-16, Professional position:,,"1+2 = Top, upper and middle management",,,,,4 = Lowest management level  ,,,
-17,,,3 = Lower management   ,,,,,No management function   ,,,
-18,,,,,,,,,,,
-19, Median:,,"For half of the jobs, the standardized wage is above the given middle value (median), and for the other half below it.   ",,,,,,,,
-20,,,,,,,,,,,
-21, Quartile range:,,"For 50 % of the jobs, the standardized wage lie in the range given.  A quarter of the standardized wage lies below",,,,,,,,
-22, (middle 50 % of the data): ,,or above the range shown.,,,,,,,,
+,Residents,total_median,quartile_from,quartile_to,women_median,women_quartile_from,woman_quartile_to,men_median,men_quartile_from,man_quartile_to
+1, TOTAL ,5583,4584.0,6798.0,4984.0,4188.0,6215,5904,4987,7126
+3, Swiss,5748,4725.0,7023.0,5159.0,4300.0,6366,6135,5160,7456
+5, Foreigners,5165,4286.0,6176.0,4502.0,3894.0,5540,5481,4642,6346
+7, Short-term permit (L),4390,3466.0,5676.0,3764.0,3367.0,4581,4898,3550,5862
+8, Temporary residence permit (B) ,4892,4057.0,6037.0,4334.0,3723.0,5829,5142,4333,6105
+9, Permanent residence permit (C) ,5265,4384.0,6239.0,4539.0,3962.0,5522,5608,4838,6444
+10, Cross-border worker (G) ,5303,4466.0,6212.0,4718.0,4127.0,5470,5588,4773,6491
+11, Other,4571,3880.0,5550.0,4164.0,3745.0,4776,[4 662] ,[3 972] ,[5 649] 

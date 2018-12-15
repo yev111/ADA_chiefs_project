@@ -1,24 +1,9 @@
-,Unnamed: 0,Unnamed: 1, Median, Quartile range,Unnamed: 4, Median.1, Quartile range.1,Unnamed: 7, Median.2, Quartile range.2,Unnamed: 10
-0,,,,,,,,,,,
-1, TOTAL ,,5647,4592,6973,5092,4146,6474,5915,4955,7263
-2,  ,,,,,,,,,,
-3, Swiss,,5741,4661,7033,5198,4253,6393,6118,5101,7472
-4,  ,,,,,,,,,,
-5, Foreigners,,5525,4487,6877,4875,3988,6691,5701,4821,6942
-6,,,,,,,,,,,
-7, Short-term permit (L),,[4 925] ,[3 843] ,[6 112] ,4333,3817,5677,[5 253] ,[3 899] ,[6 153] 
-8, Temporary residence permit (B) ,,5443,4282,7155,5159,3905,7157,5530,4550,7155
-9, Permanent residence permit (C) ,,5254,4360,6291,4436,3909,5566,5563,4826,6479
-10, Cross-border worker (G) ,,5947,4883,7634,5796,4427,7740,5978,5050,7583
-11, Other,,5235,4046,7083,[5 020] ,[3 780] ,[6 929] ,[5 279] ,[4 122] ,[7 141] 
-12,,,,,,,,,,,
-13,,,,,,,,,,,
-14, Standardized monthly wage:,,Full-time equivalent based on 40 hours a week and 4 1/3 weeks a month.,,,,,,,,
-15,,,,,,,,,,,
-16, Professional position:,,"1+2 = Top, upper and middle management",,,,,4 = Lowest management level  ,,,
-17,,,3 = Lower management   ,,,,,No management function   ,,,
-18,,,,,,,,,,,
-19, Median:,,"For half of the jobs, the standardized wage is above the given middle value (median), and for the other half below it.   ",,,,,,,,
-20,,,,,,,,,,,
-21, Quartile range:,,"For 50 % of the jobs, the standardized wage lie in the range given.  A quarter of the standardized wage lies below",,,,,,,,
-22, (middle 50 % of the data): ,,or above the range shown.,,,,,,,,
+,Residents,total_median,quartile_from,quartile_to,women_median,women_quartile_from,woman_quartile_to,men_median,men_quartile_from,man_quartile_to
+1, TOTAL ,5647,4592,6973,5092,4146,6474,5915,4955,7263
+3, Swiss,5741,4661,7033,5198,4253,6393,6118,5101,7472
+5, Foreigners,5525,4487,6877,4875,3988,6691,5701,4821,6942
+7, Short-term permit (L),[4 925] ,[3 843] ,[6 112] ,4333,3817,5677,[5 253] ,[3 899] ,[6 153] 
+8, Temporary residence permit (B) ,5443,4282,7155,5159,3905,7157,5530,4550,7155
+9, Permanent residence permit (C) ,5254,4360,6291,4436,3909,5566,5563,4826,6479
+10, Cross-border worker (G) ,5947,4883,7634,5796,4427,7740,5978,5050,7583
+11, Other,5235,4046,7083,[5 020] ,[3 780] ,[6 929] ,[5 279] ,[4 122] ,[7 141] 
