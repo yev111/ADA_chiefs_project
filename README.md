@@ -79,7 +79,7 @@ The data size would be desireably between 2010 and 2016, based on canton or the 
 <br />
 
 # Contributions of Group Members
-<br /> Simon - Extrapolation of Incomes, Correlation Analysis, Heatmap, Scatterplots, Report
+<br /> Simon - Extrapolation of Incomes, Correlation Analysis, Heatmap&Scatterplots, Report
 <br /> Samuel - Interactive Map, HTML, Exploratory visualization, Data acquisition, Report
 <br /> Evgeniy - Data Wrangling, Machine Learning - Prediction, Report
 
