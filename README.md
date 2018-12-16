@@ -83,4 +83,4 @@ The data size would be desireably between 2010 and 2016, based on canton or the 
 <br /> Samuel - Interactive Map, HTML, Exploratory visualization, Data acquisition, Report
 <br /> Evgeniy - Data Wrangling, Machine Learning - Prediction, Report
 
-# The poster will be created by the whole group and presented by Simon Stocker
+ The poster will be created by the whole group and presented by Simon Stocker
